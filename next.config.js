@@ -13,6 +13,9 @@ const nextConfig = {
     keepAlive: true,
     timeout: 5000,
   },
+  images: {
+    domains:['photo.teamrabbil.com']
+  },
   // compression: true,
   // productionBrowserSourceMaps: false,
   // trailingSlash: true,

@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.my-text {
+  font-family: var(--font-siliguri);
+  font-weight: 700;
+}
